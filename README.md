@@ -19,4 +19,4 @@ an appropriate processing pipeline with clear, human-readable rationale.
 - `outputs/` generated results (ignored by git)
 
 ## Disclaimer
-This tool is for educational purposes only and is not intended for clinical diagnosis.
+This tool is for educational purposes only and is not intended for clinical diagnosis.# signal-processing-tool
